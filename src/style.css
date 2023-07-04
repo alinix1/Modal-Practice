@@ -1,0 +1,19 @@
+@import url(https://tf-g.ml/static/css/fonts/gilroy.css);
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Helvetica Now Text', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
+    sans-serif;
+  font-size: 14px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Gilroy;
+}
