@@ -32,9 +32,9 @@ const Button = styled.button`
 
 export default () => {
   const [modalVisible, setModalVisible] = useState(false);
-  const [a, setA] = useState(null);
+  // const [a, setA] = useState(null);
   const openModal = (_) => {
-    setModalVisible((prevStatte) => !prevStatte);
+    setModalVisible((prevState) => !prevState);
   };
   return (
     <div>
